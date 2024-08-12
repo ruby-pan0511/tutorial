@@ -8,3 +8,4 @@
 
 \f0\fs32 \cf2 \cb3 \expnd0\expndtw0\kerning0
 Anyone can learn Git with this tutorial and Backlog}
+add: Register a change in an index
